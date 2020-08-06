@@ -1,4 +1,4 @@
-# Yolo_v3 Yolov3_tiny
+# Yolo_v3 and Yolov3_tiny
 •	If your running yolov3 or yolov3 tiny, remember that their unique files are in their respective folders.
 •	The common files are present outside the unique yolov3 folders.
 •	For Yolov3, run Maxmoc_yolov3.ipynb and use its unique “obj.names”, “obj.data” and “yolov3_custom_cfg” files.
